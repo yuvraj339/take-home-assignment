@@ -2,8 +2,8 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 psycopg[binary]
-alembic
-pydantic-settings
+pika
 pytest
 httpx
 ruff
+bandit
