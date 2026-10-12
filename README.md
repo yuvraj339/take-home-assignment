@@ -7,7 +7,7 @@ A small Python control plane for creating and changing tenant environments. Fast
 Requirements: Docker Desktop with Docker Compose.
 
 ```bash
-git clone <your-public-repository-url>
+git clone take-home-assignment
 cd take-home-assignment
 docker compose up --build
 ```
